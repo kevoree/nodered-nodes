@@ -1,3 +1,6 @@
 [submodule "input/websocket/js"]
 	path = input/websocket/js
 	url = git@github.com:kevoree/nodered-js-input-websocket.git
+[submodule "output/websocket/js"]
+	path = output/websocket/js
+	url = git@github.com:kevoree/nodered-js-output-websocket.git
