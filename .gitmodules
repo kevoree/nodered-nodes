@@ -10,3 +10,9 @@
 [submodule "output/mqtt/js"]
 	path = output/mqtt/js
 	url = git@github.com:kevoree/nodered-js-output-mqtt.git
+[submodule "input/inject/js"]
+	path = input/inject/js
+	url = git@github.com:kevoree/nodered-js-input-inject.git
+[submodule "output/debug/js"]
+	path = output/debug/js
+	url = git@github.com:kevoree/nodered-js-output-debug.git
