@@ -7,3 +7,6 @@
 [submodule "input/mqtt/js"]
 	path = input/mqtt/js
 	url = git@github.com:kevoree/nodered-js-input-mqtt.git
+[submodule "output/mqtt/js"]
+	path = output/mqtt/js
+	url = git@github.com:kevoree/nodered-js-output-mqtt.git
